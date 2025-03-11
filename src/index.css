@@ -264,6 +264,10 @@
   background-size: cover;
 }
 
+.mobile-img {
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .home {
     background-image : url('../public/images/b-key-img-portrait.jpg');
@@ -327,6 +331,24 @@
     animation: none;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .about .about-cont1 .left .mobile-img {
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 30%;
+    background-image: url('../public/images/my-pic-mobile.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    animation: none;
+    border-radius: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 20px;
   }
   
   .about .about-cont1 .left h1 {

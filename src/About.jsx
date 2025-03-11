@@ -14,6 +14,8 @@ const About = () => {
             <div className="left">
                 <h1>About Me</h1>
 
+                <div className="mobile-img">Hello</div>
+
                 <div id="aboutTxt" className="about-txt-cont"><p>
                         {aboutText}
                     </p></div>
