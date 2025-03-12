@@ -370,3 +370,25 @@
     }
   }
 }
+
+#g, #m, #p, #w {
+  background-repeat: no-repeat;
+  background-position: 5%;
+  background-size: 12%;
+}
+
+#w {
+  background-image: url('../public/images/icons/whatsapp-64.png');
+}
+
+#g {
+  background-image: url('../public/images/icons/github-11-64.png');
+}
+
+#p {
+  background-image: url('../public/images/icons/phone-64.png');
+}
+
+#m {
+  background-image: url('../public/images/icons/mail-64.png');
+}

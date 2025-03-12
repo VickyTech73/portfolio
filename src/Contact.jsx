@@ -15,28 +15,28 @@ const Contact = () => {
         <div className="slides">
             <div id="g" className="slide">
                 <a href="https://VickyTech73.github.io" target="blank">
-                    <div className="i-cont"><img src={bng_img[0]} alt="github" /></div>
+                    <div className="i-cont"></div>
                     <p>VickyTech73.github.io</p>
                 </a>
             </div>
 
             <div id="m" className="slide">
                 <a href="mailto: agbozovictor73@gmail.com" target="blank">
-                    <div className="i-cont"><img src={bng_img[1]} alt="mail" /></div>
+                    <div className="i-cont"></div>
                     <p>agbozovictor73@gmail.com</p>
                 </a>
             </div>
 
             <div id="p" className="slide">
                 <a href="tel: +233547714953" target="blank">
-                    <div className="i-cont"><img src={bng_img[2]} alt="phone" /></div>
+                    <div className="i-cont"></div>
                     <p>+233 547714953</p>
                 </a>
             </div>
 
             <div id="w" className="slide">
                 <a href="tel: +233547714953" target="blank">
-                    <div className="i-cont"><img src={bng_img[3]} alt="whatsapp" /></div>
+                    <div className="i-cont"></div>
                     <p>+233 547714953</p>
                 </a>
             </div>
