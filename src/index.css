@@ -280,7 +280,7 @@
     width: 100%;
     transition: all 0.3s ease-in-out;
     animation: none;
-    transform: scale(0.95);
+    transform: scale(0.8);
   }
 
   .navbar .links {
@@ -294,7 +294,7 @@
     width: 100%;
     z-index: 1000;
     margin-top: 0;
-    transform: scale(0.9); /* navbar shrinking */
+    transform: scale(0.7); /* navbar shrinking */
     animation: slideDown 0.3s ease-in-out; 
   }
 
@@ -351,9 +351,9 @@
 
   .about .about-cont1 .left .about-txt-cont p {
     position: relative;
-    width: 95%;
+    width: 100%;
     height: fit-content;
-    font-size: 1.06rem;
+    font-size: 0.9rem;
     margin: 0;
     text-align: justify;
     animation: none;
