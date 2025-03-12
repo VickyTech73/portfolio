@@ -14,7 +14,7 @@ const Contact = () => {
 
         <div className="slides">
             <div id="g" className="slide">
-                <a href="https://VickyTech73.github.io" target="blank">
+                <a href="https://github.com/VickyTech73" target="blank">
                     <div className="i-cont"></div>
                     <p>VickyTech73.github.io</p>
                 </a>
